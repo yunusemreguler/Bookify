@@ -1,0 +1,3 @@
+[submodule "bookifyservice"]
+	path = bookifyservice
+	url = https://github.com/yunusemreguler/bookifyservice.git
